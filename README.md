@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @LeticiaBorgesDeOliveira
-- 👀 I’m interested in data engineering.
-- 📫 How to reach me https://www.linkedin.com/in/leticiaborgesdb
+## Olá! Eu sou Leticia Borges De Oliveira
+Estudando data engineering.
+<p> Linkedin https://www.linkedin.com/in/leticiaborgesdb </p>
+
+
 
 <!---
 LeticiaBorgesDeOliveira/LeticiaBorgesDeOliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
